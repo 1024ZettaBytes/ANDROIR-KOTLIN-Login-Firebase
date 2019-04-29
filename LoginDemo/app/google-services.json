@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747760820116",
+    "firebase_url": "https://logindemo-6a525.firebaseio.com",
+    "project_id": "logindemo-6a525",
+    "storage_bucket": "logindemo-6a525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747760820116:android:378ebe89297ded1b",
+        "android_client_info": {
+          "package_name": "ramirez.eduardo.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747760820116-vga5tuqo27c0ctt5qn0i9884v5nqkcch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ramirez.eduardo.logindemo",
+            "certificate_hash": "ac7649f3e98608571a0e2679531b86b04f41e97f"
+          }
+        },
+        {
+          "client_id": "747760820116-ai99f07v09u2qgni66q8f6jlgvqjbuh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIViOCbKkubAQgQg_ADifjPe-AjcPaRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747760820116-ai99f07v09u2qgni66q8f6jlgvqjbuh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
