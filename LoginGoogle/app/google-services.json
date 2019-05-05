@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703389030174",
+    "firebase_url": "https://milogin-1df2a.firebaseio.com",
+    "project_id": "milogin-1df2a",
+    "storage_bucket": "milogin-1df2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703389030174:android:fd1df91dd7dc8613",
+        "android_client_info": {
+          "package_name": "com.ramirez.logingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703389030174-u1424lpukq9il2uke7pa214vhn0pqpo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramirez.logingoogle",
+            "certificate_hash": "dad19302ff227a40fbae9e0deba4f4e5ba3d4ba9"
+          }
+        },
+        {
+          "client_id": "703389030174-ehqo6l6lu7hmda6klc7339asuopcd435.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUktiGgsAMaIcgQLjSDLEkgtLwSBpTA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703389030174-ehqo6l6lu7hmda6klc7339asuopcd435.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
